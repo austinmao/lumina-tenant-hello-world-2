@@ -1,0 +1,5 @@
+# ClawWrap Target Registry
+# Copy to targets.yaml and fill in real values.
+# DO NOT commit real JIDs or email addresses to this file.
+
+targets: []

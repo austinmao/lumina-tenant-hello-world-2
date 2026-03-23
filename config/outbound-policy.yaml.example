@@ -1,0 +1,13 @@
+# ClawWrap Outbound Policy
+# Copy to outbound-policy.yaml and configure allowlists.
+
+policy:
+  channels:
+    email:
+      enabled: false
+      allowlist: []
+    slack:
+      enabled: false
+      channels: []
+    whatsapp:
+      enabled: false
