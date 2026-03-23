@@ -1,15 +1,13 @@
-# Lumina Tenant Configuration
-# Replace all <PLACEHOLDER> values before deploying.
-name: <TENANT_NAME>
-bot_name: "<BOT_NAME>"
-site_id: <SITE_ID>
-domain: <DOMAIN>
-brand_root: brands/<TENANT_NAME>/
+name: hello-world-2
+bot_name: "Lumina"
+site_id: hello-world-2
+domain: helloworld.com
+brand_root: brands/hello-world-2/
 operator:
-  name: <OPERATOR_NAME>
+  name: Hello World 2
   timezone: America/Denver
   contact: slack:#lumina-bot
-  org: <ORG_NAME>
+  org: Hello World 2
 template_version: v1.0.0
 template_remote: https://github.com/austinmao/lumina-tenant-template
 compatibility:
